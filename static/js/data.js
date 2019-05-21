@@ -5,7 +5,8 @@ var data = [{
     country: "us",
     shape: "circle",
     durationMinutes: "5 mins.",
-    comments: "4 bright green circles high in the sky going in circles then one bright green light at my front door."
+    comments: "4 bright green circles high in the sky going in circles then one bright green light at my front door.",
+    crazyFactor: "Nuts"
   },
   {
     datetime: "1/1/2010",
@@ -14,7 +15,8 @@ var data = [{
     country: "us",
     shape: "light",
     durationMinutes: "13 minutes",
-    comments: "Three bright red lights witnessed floating stationary over San Diego New Years Day 2010"
+    comments: "Three bright red lights witnessed floating stationary over San Diego New Years Day 2010",
+    crazyFactor: "Straight Jacket"
   },
   {
     datetime: "1/1/2010",
@@ -23,7 +25,8 @@ var data = [{
     country: "us",
     shape: "triangle",
     durationMinutes: "6 minutes",
-    comments: "On New Years Eve I went outside to hear the celebration and fireworks in my neighbor hood. And noticed 3 red lights above my house and"
+    comments: "On New Years Eve I went outside to hear the celebration and fireworks in my neighbor hood. And noticed 3 red lights above my house and",
+    crazyFactor: "Bonkers"
   },
   {
     datetime: "1/1/2010",
@@ -32,7 +35,8 @@ var data = [{
     country: "us",
     shape: "triangle",
     durationMinutes: "12 minutes",
-    comments: "3 Red objects hovering over El Cajon CA"
+    comments: "3 Red objects hovering over El Cajon CA",
+    crazyFactor: "Cockoo"
   },
   {
     datetime: "1/1/2010",
